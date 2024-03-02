@@ -1,0 +1,3 @@
+[submodule "FormalReactionKinetics"]
+	path = FormalReactionKinetics
+	url = https://github.com/susitsm/FormalReactionKinetics.git
